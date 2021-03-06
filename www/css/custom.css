@@ -1,0 +1,26 @@
+
+p{
+    color:rgb(68, 57, 134);
+    font-size :larger
+    
+}
+h1{
+    background-color:yellowgreen
+}
+a:hover{
+    color:rgb(164, 129, 248);
+    text-decoration:none;
+}
+#p_bru{
+    background-color:whitesmoke;
+    padding:10px 20px 20px 10px;
+    /* padding: 1em; */
+}
+.red700{
+    color:rgb(29, 5, 66);
+    font-weight: 700;
+    opacity:0.3;
+}
+[alt="Icebare"]{
+        width:100px
+}
